@@ -26,8 +26,21 @@ Work Experience
 * 2014 - 2015: Engineer
   * An Startup focusing on IC-Design
   * Assisted in design and debug of analog circuit (Hardware / Schematics / PCB) and digital circuit (FPGA/Verilog)
-  * Worked on signal experimental design and data acquisition analysis software (MCU / Qt)\
+  * Worked on signal experimental design and data acquisition analysis software (MCU / Qt)
   * Managed and maintained laboratory equipment and materials.
+
+* 2011 - 2014: Software Engineer
+  * Universal Scientific Industrial Co.
+  * System Level Development on Android / Embedded Linux
+  * Lead platform team, team scale is 5 engineers.
+  * In charge of new hires training on Android / Linux kernel.
+  * Devices bring up, Android 4.2 ~ 4.4 (Linux kernel 3.0 ~ 3.4) porting.
+  * Customize audio framework of Android system.
+  * Design method of audio latency measurement in Android framework.
+  * Customize and debug general embedded system feature, such as keypad, SD card, audio, UI, power management, etc.
+  * Design Android Muti-Flash tool (Win32 Application) for production line.
+  * Design IC-module testing program based on bootloader (U-Boot) to replace the one relies on OS environment. This improvement significantly accelerate testing procedure of manufacturing.
+
 
 Publications
 ======
