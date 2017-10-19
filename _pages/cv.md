@@ -9,38 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Department of Electrical Engineering, National Taiwan University, 2008
-* M.S. in Department of Electrical Engineering, National Taiwan University, 2010
+(download [pdf here](http://qiao-tw.github.io/files/cv_20171019.pdf))
 
 Work Experience
 ======
-* 2015 - 2017: Advanced Engineer
-  * AsusTek
-  * Participated the robot project from scratch; in charge of functions related to robot perceptions (SLAM / Localization)
-  * Implemented computational-expansive robotic algorithms (mainly SLAM / Localization) on limited, low-cost embedded platforms.
-  * Designed and developed debugging tools for robotic navigation.
-  * Collaborated with different teams to implement robot navigation feature on Zenbo.
+* 2016.03 - Present  
+  __Specialist (Algorithm Developer)__, Taipei, Taiwan  
+  _AsusTek, Intelligent Robot Business Unit, Artificial Intelligence Div., Computer Vision Dept._
+  * In charge of designing and implementing localization system of Zenbo
+    * Designed Java API as Android Service for other app development teams
+    * Designed and implemented computational-expansive robotic algorithms (mainly SLAM/localization) for low-cost, severely limited sensors and embedded platform of Zenbo
+  * Developed software tools to collect and analyze sensor data in real world based on Android, ROS, OpenCV and PCL
+  * Worked in team to build SLAM system of Zenbo
+* 2015.04 - 2016.02  
+  __Advanced Engineer__, Taipei, Taiwan  
+  _AsusTek, New Product Business Planning Dept._
+  * Placed in charge of SLAM and localization of new robot product, Zenbo
+  * Worked in team of 30+ people; attended all meetings to ensure team members understood how SLAM and localization worked 
+  * Prototype launched at Computex Taipei 2016
+* 2014.05 - 2014.12  
+  __Engineer__, Taipei, Taiwan  
+  _Midas Optronics Corporation (a startup IC design house)_
+  * Prototyped IC which implemented a new algorithm to achieve multi-touch capability on surface-capacitive touchscreen,which previously could only achieve single touch capability
+  * Emulated analog and digital parts of IC from scratch 
+    * Emulated digital circuit with FPGA development kit; verified behavior and algorithm by simulation with ModelSim;conducted experiments with programmable-data-generator and logic-analyzer
+    * Emulated analog circuit with PCB and breadboard; drew and sent schematics to PCB layout and manufacture firms;conducted experiments with function-generator and oscilloscope
+  * Designed software on microprocessor and PC to interpret digital signal from IC to x-y coordinate of touch panel  
+* 2011.10 - 2014.04  
+  __Advanced Engineer__, Nantou, Taiwan  
+  _Universal Scientific Industrial Co., Ltd._  
+  _Smart Handheld Devices Division, Software Development Department_
+  * Android system-level development
+    * Cooperated with _Motorola Solutions_ (now _Zebra Technology_) on embedded devices, led five-person team
+    * Responsible for bringing up new hardware platform, including porting Linux kernel driver and Android HAL/framework to new devicesTested phone performance based on CDD/CTS, monkey, stress tests
+  * Software tools for mass-production-line
+    * Developed hardware diagnostic program based on bootloader (das U-Boot) to verify conditions of devices without booting into operating system; enhanced efficiency of testing procedure in production lines
+    * Developed Android-specific multiple-device flash tool for mass-production in factories; this tool still widely used by _Zebra Technology_’s Android SHD production lines (originally _Motorola Solutions_)
 
-* 2014 - 2015: Engineer
-  * An Startup focusing on IC-Design
-  * Assisted in design and debug of analog circuit (Hardware / Schematics / PCB) and digital circuit (FPGA/Verilog)
-  * Worked on signal experimental design and data acquisition analysis software (MCU / Qt)
-  * Managed and maintained laboratory equipment and materials.
-
-* 2011 - 2014: Software Engineer
-  * Universal Scientific Industrial Co.
-  * System Level Development on Android / Embedded Linux
-  * Lead platform team, team scale is 5 engineers.
-  * In charge of new hires training on Android / Linux kernel.
-  * Devices bring up, Android 4.2 ~ 4.4 (Linux kernel 3.0 ~ 3.4) porting.
-  * Customize audio framework of Android system.
-  * Design method of audio latency measurement in Android framework.
-  * Customize and debug general embedded system feature, such as keypad, SD card, audio, UI, power management, etc.
-  * Design Android Muti-Flash tool (Win32 Application) for production line.
-  * Design IC-module testing program based on bootloader (U-Boot) to replace the one relies on OS environment. This improvement significantly accelerate testing procedure of manufacturing.
-
+Education
+======
+* 2008.09 - 2010.06  
+  __MSc in Engineering__, Taipei, Taiwan  
+  _National Taiwan University_
+  * Average 87.39/100
+  * Master thesis: Sound Source Localization and Speech Interaction System for Intelligent Mobile Robots; advisor: Professor Ren C. Luo
+  * First Prize, Intelligent Security Robot Competition 
+    * National competition hosted by Shin Kong Security; attended by university students from around Taiwan
+    * Objective was to design robot which could navigate rooms of standard residential home autonomously 
+    * Gained hands-on experience in robot SLAM/localization
+    * Implemented navigation system based on Monte-Carlo localization and “A-Star” path-planning algorithm
+  * “Development of Intelligent Education Entertainment Companion Robot” – “Sound-source Localization Research Project”
+    * “Development of Intelligent Education Entertainment Companion Robot” project funded by National Science Council
+    * Implemented sound-source-detection system to identify user’s location by sound from scratch
+  * “Development of Intelligent Education Entertainment Companion Robot” – “Voice Dialog System Research Project”
+    * Frontend: used Microsoft Speech API to build human-robot-interface to enable robot to recognize pre-defined voice commands
+    * Backend: designed primitive ROS-like middleware which provided protocols for different software modules to communicate with each other
+* 2004.09 - 2008.06  
+  __BSc in Engineering__, Taipei, Taiwan  
+  _National Taiwan University_  
+  * Last-two-years average 81.27/100  
 
 Publications
 ======
