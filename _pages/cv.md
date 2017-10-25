@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(download [pdf here](http://qiao-tw.github.io/files/cv_20171019.pdf))
+(download [pdf here](http://qiao-tw.github.io/files/cv_20171025.pdf))
 
 Work Experience
 ======
@@ -25,13 +25,13 @@ Work Experience
   __Advanced Engineer__, Taipei, Taiwan  
   _AsusTek, New Product Business Planning Dept._
   * Placed in charge of SLAM and localization of new robot product, Zenbo
-  * Worked in team of 30+ people; attended all meetings to ensure team members understood how SLAM and localization worked 
+  * Worked in team of 30+ people; attended all meetings to ensure team members understood how SLAM and localization worked
   * Prototype launched at Computex Taipei 2016
 * 2014.05 - 2014.12  
   __Engineer__, Taipei, Taiwan  
   _Midas Optronics Corporation (a startup IC design house)_
   * Prototyped IC which implemented a new algorithm to achieve multi-touch capability on surface-capacitive touchscreen,which previously could only achieve single touch capability
-  * Emulated analog and digital parts of IC from scratch 
+  * Emulated analog and digital parts of IC from scratch
     * Emulated digital circuit with FPGA development kit; verified behavior and algorithm by simulation with ModelSim;conducted experiments with programmable-data-generator and logic-analyzer
     * Emulated analog circuit with PCB and breadboard; drew and sent schematics to PCB layout and manufacture firms;conducted experiments with function-generator and oscilloscope
   * Designed software on microprocessor and PC to interpret digital signal from IC to x-y coordinate of touch panel  
@@ -53,10 +53,9 @@ Education
   _National Taiwan University_
   * Average 87.39/100
   * Master thesis: Sound Source Localization and Speech Interaction System for Intelligent Mobile Robots; advisor: Professor Ren C. Luo
-  * First Prize, Intelligent Security Robot Competition 
+  * First Prize, Intelligent Security Robot Competition
     * National competition hosted by Shin Kong Security; attended by university students from around Taiwan
-    * Objective was to design robot which could navigate rooms of standard residential home autonomously 
-    * Gained hands-on experience in robot SLAM/localization
+    * Objective was to design robot which could navigate rooms of standard residential home autonomously
     * Implemented navigation system based on Monte-Carlo localization and “A-Star” path-planning algorithm
   * “Development of Intelligent Education Entertainment Companion Robot” – “Sound-source Localization Research Project”
     * “Development of Intelligent Education Entertainment Companion Robot” project funded by National Science Council
