@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(download [pdf here](http://qiao-tw.github.io/files/cv_20171224.pdf))
+(download [pdf here](http://qiao-tw.github.io/files/cv_20180730.pdf))
 
 Work Experience
 ======
